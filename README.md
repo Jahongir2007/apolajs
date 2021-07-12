@@ -9,7 +9,7 @@ Apola.js is a simple framework that simplifies MySQL and Express.js frameworks a
 - Can easily integrate with other frameworks and libraries
 ## "Hello, world!" application in Apola.js
 ```js
-const apola = require('apola');
+const apola = require('./apola');
 var app = apola;
 
 app.route(['/'], {
