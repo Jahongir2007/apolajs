@@ -1,4 +1,4 @@
-const apola = require('apola');
+const apola = require('./apola');
 var app = apola;
 
 app.route(['/api/test/method/route'], {
